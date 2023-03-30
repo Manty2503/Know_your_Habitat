@@ -1,5 +1,3 @@
-# Know_your_Habitat
-
 # Know your Habitat (CNN)
 
 Develop a platform (web/android) that performs a reverse image search and identifies the objects present in the image. The user will click an image or make a short video, and the platform will classify the content of the image or video based on different classes such as:
