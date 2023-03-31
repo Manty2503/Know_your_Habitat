@@ -2,7 +2,7 @@
 
 Develop a model that performs a reverse image search and identifies the objects present in the image. The user will upload an image, and the model will classify the content of the image based on different classes such as:
 
-- Name of the plant/flower/bird
+- Plant/flower/bird
 - Academic buildings/offices/infrastructure
 
 The code trains a convolutional neural network (CNN) using the VGG19 architecture to classify images into different categories. The model is trained using a dataset of images and their corresponding labels. After training, the model is saved and can be used for prediction. 
